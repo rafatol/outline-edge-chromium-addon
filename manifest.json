@@ -3,6 +3,7 @@
     "name": "Outline.com",
     "description": "Read web pages without clutter via outline.com",
     "version": "1.0",
+    "author": "Rafael Toledo",
     "background": {
         "scripts": ["background.js"]
     },
@@ -15,9 +16,5 @@
         "16": "icon-16.png",
         "48": "icon-48.png",
         "128": "icon.png"
-    },
-    "developer": {
-        "name": "Rafael Toledo",
-        "url": "https://rvpt.net"
     }
 }
